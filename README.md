@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniep01
+- 👋 Hi, I’m Peter and I develop open source software in my spare time. Currently I am working on [Companion](https://bitfocus.io/companion) modules.
 
 
 <!---
